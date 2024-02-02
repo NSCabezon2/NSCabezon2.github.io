@@ -3,7 +3,10 @@
     "apps": [],
     "details": [
       {
-        "appID": "QMG8NPXE4U.com.ivancabezon.pitagorinbueno",
+        "appIDs": [
+          "QMG8NPXE4U.com.ivancabezon.pitagorinbueno",
+          "4K7V7FKKFE.com.ivancabezon.PitagorinLite",
+        ],
         "paths": [
           "*"
         ]
