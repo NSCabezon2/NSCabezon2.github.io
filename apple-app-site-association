@@ -8,7 +8,7 @@
           "4K7V7FKKFE.com.ivancabezon.PitagorinLite",
         ],
         "paths": [
-          "*"
+          "*", "/"
         ]
       }
     ]
